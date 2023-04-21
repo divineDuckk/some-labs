@@ -1,0 +1,50 @@
+<main>
+      <div class="main-back-1">
+        <div class="main-wrap">
+          <div class="main-head">
+            <p class="thivetalk-text">Thrivetalk</p>
+            <ol class="menu">
+              <li><a href="@">Home</a></li>
+              <li><a href="@">About</a></li>
+              <li><a href="@">Services</a></li>
+              <li><a href="@">Blog</a></li>
+            </ol>
+            <button>CONTACT US</button>
+          </div>
+          <div class="main-info-help">
+            <p class="thivetalk-text">Thrivetalk</p>
+            <h2>HELPING YOU THRIVE IN ALL AREAS OF LIFE</h2>
+            <div class="help-description">
+              Our highly talented therapists can help you with a range of issues
+              including relationships, sex, PTSD, depression, social anxiety, or
+              even just caring for yourself more.
+            </div>
+            <div class="buttons-main">
+              <button>WHO AM I</button>
+              <button>WHAT DO I DO</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="main-back-2">
+        <div class="wrap-back-2">
+          <div class="info-thrive">
+            <h2>Why Thrive?</h2>
+            <p>
+              <span
+                >Want to improve your well-being from the comfort of your own
+                couch? Are you having trouble finding the right therapist?
+              </span>
+              Here at ThriveTalk, our licensed therapists provide the same
+              quality care you would get in office from anywhere you can access
+              your laptop or mobile phone. Become your best self with
+              ThriveTalk. Start therapy now with a licensed therapist!
+            </p>
+          </div>
+        </div>
+        <img src="./img/christopher-campbell-40367.jpg" alt="" height="554" />
+      </div>
+      <div class="main-back-3">
+        
+      </div>
+    </main>
